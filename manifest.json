@@ -1,0 +1,20 @@
+{
+  "name": "Orbit Runner Frontier",
+  "short_name": "Orbit Runner",
+  "description": "Lead a deep-space recovery mission through hostile orbital frontiers. Collect relics, dodge hazards, and survive 4 zones.",
+  "start_url": "./OrbitRunnerFrontier_v2.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#101a2a",
+  "theme_color": "#7bf1c8",
+  "categories": ["games"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "screenshots": [
+    { "src": "screenshot1.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow" }
+  ],
+  "lang": "en",
+  "dir": "ltr"
+}
